@@ -2,6 +2,8 @@
 Welcome to see my mini-projects using python. This repository based on Karpov-course ('data analytics') and few projects I made at university and for testing.
 Short describtions of tasks and data are provided here, others inside of files.
 
+Добро пожаловать! Тут собраны мои мини-проекты, которые я выполняла, учась на специализации "аналитик данных" от Карпова. Также будут добавляться учебные файлы из университета и других источников. Спасибо, что решили ознакомиться.
+
 **FOR mini-project 2(3 lesson)**:
 For Russian version scroll down.
 Tasks:
